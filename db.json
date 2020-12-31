@@ -1,0 +1,280 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Tableta de chocolate Leche Mangaro 50% de cacao",
+      "precio": 5.5,
+      "categoria": "Dulces"
+    },
+    {
+      "id": 2,
+      "nombre": "Tableta de chocolate Negro bio 70% de cacao",
+      "precio": 5.5,
+      "categoria": "Dulces"
+    },
+    {
+      "id": 3,
+      "nombre": "Pack galletas Shortbread Selection Cartwright & Butler",
+      "precio": 18.65,
+      "categoria": "Dulces"
+    },
+    {
+      "id": 4,
+      "nombre": "Galletas Charlotte de chocolate con avellanas",
+      "precio": 5.2,
+      "categoria": "Dulces"
+    },
+    {
+      "id": 5,
+      "nombre": "Sirope de Arce Club del Gourmet",
+      "precio": 8.5,
+      "categoria": "Siropes"
+    },
+    {
+      "id": 6,
+      "nombre": "Mermelada de fresa Club del Gourmet",
+      "precio": 4.5,
+      "categoria": "Mermeladas"
+    },
+    {
+      "id": 7,
+      "nombre": "Jamón de Bellota 100% Ibérico Club del Gourmet",
+      "precio": 490,
+      "categoria": "Jamones"
+    },
+    {
+      "id": 8,
+      "nombre": "Lomo de bellota 100% Ibérico Club del Gourmet",
+      "precio": 40,
+      "categoria": "Embutidos"
+    },
+    {
+      "id": 9,
+      "nombre": "Chorizo cular 100% Ibérico extra de bellota Club del Gourmet",
+      "precio": 20,
+      "categoria": "Embutidos"
+    },
+    {
+      "id": 10,
+      "nombre": "Estuche 4 botellas de aceite de oliva virgen extra",
+      "precio": 45,
+      "categoria": "Aceites"
+    },
+    {
+      "id": 11,
+      "nombre": "Aceite de nueces La Tourangelle",
+      "precio": 7.5,
+      "categoria": "Aceites"
+    },
+    {
+      "id": 12,
+      "nombre": "Foie gras de pato Club del Gourmet",
+      "precio": 14.9,
+      "categoria": "Patés"
+    },
+    {
+      "id": 13,
+      "nombre": "Paté de hongos con trufa blanca",
+      "precio": 4.5,
+      "categoria": "Patés"
+    },
+    {
+      "id": 14,
+      "nombre": "Paté Ibérico de Bellota",
+      "precio": 6.5,
+      "categoria": "Patés"
+    },
+    {
+      "id": 15,
+      "nombre": "Paté Ibérico de Bellota",
+      "precio": 6.5,
+      "categoria": "Patés"
+    },
+    {
+      "id": 16,
+      "nombre": "Queso parmesano",
+      "precio": 10.75,
+      "categoria": "Quesos"
+    },
+    {
+      "id": 17,
+      "nombre": "Queso Manchego Gran Reserva",
+      "precio": 13.7,
+      "categoria": "Quesos"
+    },
+    {
+      "id": 18,
+      "nombre": "Queso mascarpone",
+      "precio": 10.8,
+      "categoria": "Quesos"
+    },
+    {
+      "id": 19,
+      "nombre": "Ternera para tacos Gourmet",
+      "precio": 10.5,
+      "categoria": "Carnes"
+    },
+    {
+      "id": 20,
+      "nombre": "Tallarines de trigo Soba Somen orgánicos",
+      "precio": 8.2,
+      "categoria": "Pastas"
+    },
+    {
+      "id": 21,
+      "nombre": "Tallarines de arroz integral orgánico 100% sin gluten",
+      "precio": 5.76,
+      "categoria": "Pastas"
+    },
+    {
+      "id": 22,
+      "nombre": "Arroz bomba Illa Riu",
+      "precio": 8.95,
+      "categoria": "Arroces"
+    },
+    {
+      "id": 23,
+      "nombre": "Risotto con setas Gli Aironi",
+      "precio": 6.2,
+      "categoria": "Arroces"
+    },
+    {
+      "id": 24,
+      "nombre": "Arroz basmati Club del Gourmet",
+      "precio": 5.2,
+      "categoria": "Arroces"
+    },
+    {
+      "id": 25,
+      "nombre": "Risotto con trufa Gli Aironi",
+      "precio": 8.2,
+      "categoria": "Arroces"
+    },
+    {
+      "id": 26,
+      "nombre": "Té verde con mezcla de jazmín Club del Gourmet",
+      "precio": 10.4,
+      "categoria": "Tés"
+    },
+    {
+      "id": 27,
+      "nombre": "Té rojo con mezcla de jazmín Club del Gourmet",
+      "precio": 8.2,
+      "categoria": "Tés"
+    },
+    {
+      "id": 28,
+      "nombre": "Café molido tueste natural Brasil Sul Minas Club del Gourmet",
+      "precio": 9.2,
+      "categoria": "Cafés"
+    },
+    {
+      "id": 29,
+      "nombre": "Café en grano tueste natural 100% Arábica origen Kenya Club del Gourmet",
+      "precio": 11.5,
+      "categoria": "Cafés"
+    },
+    {
+      "id": 30,
+      "nombre": "Zumo natural de mandarina y romero Club del Gourmet",
+      "precio": 2.8,
+      "categoria": "Zumos"
+    },
+    {
+      "id": 31,
+      "nombre": "Zumo natural de naranja Club del Gourmet",
+      "precio": 2.2,
+      "categoria": "Zumos"
+    },
+    {
+      "id": 32,
+      "nombre": "Zumo cocktail de frutas rojas ecológicas Club del Gourmet",
+      "precio": 6.5,
+      "categoria": "Zumos"
+    },
+    {
+      "id": 33,
+      "nombre": "Cacao puro 100% Club del Gourmet",
+      "precio": 9.5,
+      "categoria": "Cacaos"
+    },
+    {
+      "id": 34,
+      "nombre": "Whisky escocés Ardbeg Corryvreckan",
+      "precio": 92.9,
+      "categoria": "Whisky"
+    },
+    {
+      "id": 35,
+      "nombre": "Whisky escocés The Macallan 25 años single malt",
+      "precio": 1595,
+      "categoria": "Whisky"
+    },
+    {
+      "id": 36,
+      "nombre": "Ginebra Reserve Burrough's Beefeatert",
+      "precio": 71.9,
+      "categoria": "Ginebra"
+    },
+    {
+      "id": 37,
+      "nombre": "Ron Zacapa Royal",
+      "precio": 285.4,
+      "categoria": "Ron"
+    },
+    {
+      "id": 38,
+      "nombre": "Vodka Grey Goose",
+      "precio": 47.95,
+      "categoria": "Vodka"
+    },
+    {
+      "id": 39,
+      "nombre": "Vodka Belvedere Pure botella 6L",
+      "precio": 403,
+      "categoria": "Vodka"
+    },
+    {
+      "id": 40,
+      "nombre": "Tequila añejo Don Julio",
+      "precio": 155.1,
+      "categoria": "Tequila"
+    },
+    {
+      "id": 41,
+      "nombre": "Tequila joven Casa Dragones 100% Agave azul",
+      "precio": 361.7,
+      "categoria": "Tequila"
+    },
+    {
+      "id": 42,
+      "nombre": "Mezcal artesano Grulani 100% Ágave Jabalí",
+      "precio": 175,
+      "categoria": "Mezcal"
+    },
+    {
+      "id": 43,
+      "nombre": "Jamón de Bellota 100% Ibérico Cinco Jotas",
+      "precio": 255,
+      "categoria": "Jamones"
+    },
+    {
+      "id": 44,
+      "nombre": "Café molido Jamaica Blue Mountain Malongo",
+      "precio": 87,
+      "categoria": "Cafés"
+    },
+    {
+      "id": 45,
+      "nombre": "Estuche Jamón Gran Reserva",
+      "precio": 590,
+      "categoria": "Jamones"
+    },
+    {
+      "id": 46,
+      "nombre": "Salchichón cular 100% Ibérico extra de bellota",
+      "precio": 19,
+      "categoria": "Embutidos"
+    }
+  ]
+}
